@@ -1,4 +1,6 @@
 <div align="center">
+  
+  <h1><code>基于Rust WebAssembly的康威生命游戏</code></h1>
 
   <h1><code>wasm-pack-template</code></h1>
 
